@@ -1,0 +1,37 @@
+on command "/judgement":
+        cancel event
+        broadcast "&6INK> &cJudgement day banning will begin shortly."
+        wait 25.5 seconds
+        broadcast "&6INK> &cJudgement day banning will begin in 5 seconds."
+        wait 5 seconds
+        broadcast "&6INK> &cAll known hackers in log are currently being punished."
+        wait 3 seconds
+        broadcast "&6INK> &cPurging."
+        wait 1.5 seconds
+        broadcast "&6INK> &cPurging. ."
+        wait 1.5 seconds
+        broadcast "&6INK> &cPurging. . ."
+        wait 4 seconds
+        broadcast "&6INK> &aSuccess!"
+        wait 5 seconds
+        broadcast "&6INK> &cAll hackers that have not been caught yet have been banned in logs"
+        wait 4.5 seconds
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"
+        broadcast "&6INK> &cbanned a player"  
+        broadcast "&6INK> &cbanned a player"
+        wait 6 seconds
+        execute console command "cc"
+        wait 3.5 seconds
+        broadcast "&6INK> &cJudgement day is over. New one in 7 days"
+        wait 5 seconds
+        broadcast "&6INK> &cJudgement day, a feature added to the Ink AC. INK Ac by the MH user Offendable"
+        
+         ban players put on {judgement:day} variable
+          
